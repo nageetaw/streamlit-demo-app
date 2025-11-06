@@ -20,11 +20,15 @@ You can also create your own demo by following the steps below.
 
 Follow these steps to set up, run, and deploy the app:
 
-Find a model or an api that allow you to do your choice of task, Such as I did emotion classiciation using Hugging face model `j-hartmann/emotion-english-distilroberta-base` through pipeline https://huggingface.co/docs/transformers/en/main_classes/pipelines#transformers.por ipeline  
+Find a model or an api that allow you to do your choice of task, such as I did emotion classiciation using Hugging face model `j-hartmann/emotion-english-distilroberta-base` through pipeline https://huggingface.co/docs/transformers/en/main_classes/pipelines#transformers.por ipeline. <br>
 
-Now you can use streamlit to create a nice user interface quickly, if you want to have a seperate backend to create an API for inference you can use FastAPI, My goal was to try Streamlit only so I did inference in one file.
+Now you can use streamlit to create a nice user interface quickly. <br>
 
-Push your code to github, connect streamlit with github and simply deploy your app, The user interface of streamit seems quite easy to use, and as it also provides a free account so you can use this to build your portfolio projects.
+if you want to have a seperate backend to create an API for inference you can use FastAPI, My goal was to try Streamlit only so I did inference in one file. <br>
+
+Push your code to github, connect streamlit with github and simply deploy your app. <br>
+
+The user interface of streamit seems quite easy to use, and as it also provides a free account so you can use this to build your portfolio projects. <br>
 
 ---
 #### 🎉 Enjoy experimenting and exploring!
